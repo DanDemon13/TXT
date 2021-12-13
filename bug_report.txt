@@ -1,1 +1,11 @@
-# TXT
+Bug Report
+1)Tupe Bag
+2)Priority Medium
+3)Affects Verson/s 2.20
+4)Components/s None
+5)Labels None
+6)Environmant www.test.website.com
+7)Sprint S22
+8)Status Open
+9)Resolution Unresolved
+10)Fix Version/s 2.20
