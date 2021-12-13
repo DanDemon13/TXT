@@ -1,0 +1,8 @@
+1)Soft skills
+2)Hard skills
+3)Web technologies
+4)Testing and software development
+5)testing basics
+6)defect reports
+7)Bag reports
+ 			
