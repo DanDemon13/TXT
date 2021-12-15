@@ -1,11 +1,16 @@
 Bug Report
-1)Tupe Bag
-2)Priority Medium
-3)Affects Verson/s 2.20
-4)Components/s None
-5)Labels None
-6)Environmant www.test.website.com
-7)Sprint S22
-8)Status Open
-9)Resolution Unresolved
-10)Fix Version/s 2.20
+1)Title / Short Description / Subject / Summary / Title
+The texts of errors (what?) On the form "Zvorotny zvyazok" on the page https://itawards.ua/ua (where?) In the UA version of the site have not been translated into Ukrainian (when?)
+2)Screenshot / video
+https://itawards.ua/ua
+3)Steps to playback
+1*Open the page https://itawards.ua/ua
+2*Scroll to the form "Zvorotny zvyazyk"
+3*Click on the button "Send"
+4*Pay attention to the language of errors that appeared under the form fields
+4)Actual result
+Errors are displayed in English
+5)Expected Result
+Errors are displayed in Ukrainian
+6)Seriousness
+S1 (minor)
