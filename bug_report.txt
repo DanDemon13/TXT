@@ -1,16 +1,9 @@
-Bug Report
-Summary:
-The texts of errors (what?) On the form "Zvorotny zvyazok" on the page https://itawards.ua/ua (where?) In the UA version of the site have not been translated into Ukrainian (when?)
-Attachment:
-https://itawards.ua/ua
-Steps to Reproduce:
-      Open the page https://itawards.ua/ua.
-      Scroll to the form "Zvorotny zvyazyk".
-      Click on the button "Send".
-      Pay attention to the language of errors that appeared under the form fields
-Actual result:
-Errors are displayed in English
-Expected Result:
-Errors are displayed in Ukrainian
-Seriousness:
-S1 (minor)
+Описание:Не переведены на украинский язык тексты ошибок на форме “Зворотний зв’язок”
+Шаги к воспроизведению
+      Открыть страницу https://itawards.ua/ua
+      Проскролить к форме “Зворотний зв’язок”
+      Нажать на кнопку “Надіслати”
+      Обратить внимание на язык ошибок, которые появились под полями формы
+Фактический результат:Отображаются ошибки на английском языке
+Ожидаемый результат:Отображаются ошибки на украинском языке
+Серьезность:S1 (minor)
